@@ -1,7 +1,8 @@
-package com.javatechie.lambda.demo.Optional;
+package com.javatechie.lambda.Optional;
 
 import com.javatechie.lambda.demo.mapVsflatMap.Customer;
-import com.javatechie.lambda.demo.mapVsflatMap.EkartDataBase;
+import com.javatechie.lambda.Optional.*;
+import com.javatechie.lambda.mapVsflatMap.EkartDataBase;
 
 import java.util.Arrays;
 import java.util.List;

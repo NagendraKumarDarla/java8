@@ -1,7 +1,7 @@
-package com.javatechie.lambda.demo.mapVsflatMap;
+package com.javatechie.lambda.mapVsflatMap;
 
 import com.javatechie.lambda.demo.mapVsflatMap.Customer;
-import com.javatechie.lambda.demo.mapVsflatMap.EkartDataBase;
+import com.javatechie.lambda.mapVsflatMap.EkartDataBase;
 
 import java.util.List;
 import java.util.stream.Collectors;
