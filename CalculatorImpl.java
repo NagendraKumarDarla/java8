@@ -9,7 +9,7 @@ interface Calculator {
 	int substract(int i1, int i2);
 }
 
-public class CalculatorImpl {
+public class CalculatorImpl  {
 
 	public static void main(String[] args) {
 
@@ -32,7 +32,7 @@ public class CalculatorImpl {
 			}
 		};
 
-		System.out.println(calculator.substract(8, 20));
+		System.out.println(calculator.substract(9, 19));
 	}
 
 	// () -> {body};

@@ -9,8 +9,8 @@ public class BookService {
 	 * ( o1, o2) -> o2.getName().compareTo(o1.getName());
 	 * 
 	 */
-	public List<Book> getBooksinSort() {
-		List<Book> books = new BookDAO().getBooks();
+	public List<com.javatechie.lambda.example.Book> getBooksinSort() {
+		List<com.javatechie.lambda.example.Book> books = new BookDAO().getBooks();
 		Collections.sort(books, (o1, o2) -> o1.getName().compareTo(o2.getName()));
 		return books;
 	}

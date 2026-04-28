@@ -1,4 +1,4 @@
-package com.javatechie.pre.functional.demo;
+package com.javatechie.lambda.demo.demo;
 
 import java.util.Arrays;
 import java.util.List;
