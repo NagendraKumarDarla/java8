@@ -1,4 +1,4 @@
-package com.javatechie.stream.api.example;
+package com.javatechie.lambda.example;
 
 public class Employee {
 

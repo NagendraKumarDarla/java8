@@ -1,5 +1,4 @@
-package com.javatechie.stream.api.example;
-
+package com.javatechie.lambda.example;
 import java.util.List;
 import java.util.stream.Collectors;
 

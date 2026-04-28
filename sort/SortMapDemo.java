@@ -1,4 +1,4 @@
-package com.javatechie.stream.sort;
+package com.javatechie.lambda.sort;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -9,7 +9,7 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.TreeMap;
 
-import com.javatechie.stream.api.example.Employee;
+import com.javatechie.lambda.example.Employee;
 
 public class SortMapDemo {
 
